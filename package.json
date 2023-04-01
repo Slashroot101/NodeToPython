@@ -1,0 +1,24 @@
+{
+  "name": "nodetopython",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "python-shell": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Slashroot101/NodeToPython.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Slashroot101/NodeToPython/issues"
+  },
+  "homepage": "https://github.com/Slashroot101/NodeToPython#readme"
+}
